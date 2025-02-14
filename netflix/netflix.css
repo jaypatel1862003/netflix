@@ -317,3 +317,62 @@
   font-size: 20px;
   border-radius: 0.25rem;
 }
+
+.p-5 {
+  color: var(--sec-text-color);
+  font-weight: 400;
+  margin-top: 4rem;
+}
+
+.p-5 a {
+  color: var(--sec-text-color);
+  text-decoration: underline;
+}
+
+.footer {
+  margin-top: 2rem;
+}
+
+.footer-1 {
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
+
+.footer-part a {
+  color: var(--sec-text-color);
+  text-decoration: underline;
+  margin-top: 0.5rem;
+}
+
+.footer-part li {
+  margin-top: 1rem;
+}
+
+.drop-2 {
+  margin-top: 4rem;
+  padding-bottom: 5rem;
+}
+
+.dropdown-2 {
+  background-color: transparent;
+  color: var(--text-color);
+  border: 2px solid var(--border);
+  font-weight: 600;
+  height: 35px;
+  width: 110px;
+  text-align: center;
+  border-radius: 0.35rem;
+}
+
+.dropdown-2 option {
+  color: black;
+}
+
+.drop-2 p {
+  color: var(--sec-text-color);
+  margin-top: 2rem;
+  font-weight: 400;
+  font-size: 15px;
+}
+
+
